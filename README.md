@@ -20,9 +20,9 @@ requests are simultaneously created on the target.
 
 ## Requirements
 
-json (pip install json)
-requests (pip install requests)
-pysocks (pip install pysocks)
+* json (pip install json)
+* requests (pip install requests)
+* pysocks (pip install pysocks)
 
 ## Bugs report
 Email: byteinject@protonmail.com
