@@ -14,9 +14,9 @@ requests are simultaneously created on the target.
 
 ## How it works
 
-1. Starts a targeted HTTP connection.
-2. Sends an infinite number of fragmented packets.
-3. Deny all incoming HTTP requests resulting in a successful attack.
+> 1. Starts a targeted HTTP connection.
+> 2. Sends an infinite number of fragmented packets.
+> 3. Deny all incoming HTTP requests resulting in a successful attack.
 
 ## Requirements
 
@@ -25,9 +25,9 @@ requests are simultaneously created on the target.
 * pysocks (pip install pysocks)
 
 ## Bugs report
-Email: byteinject@protonmail.com
+> Email: byteinject@protonmail.com
 
 ## License
-Code is licensed under the MIT License.
+> Code is licensed under the MIT License.
 
 
